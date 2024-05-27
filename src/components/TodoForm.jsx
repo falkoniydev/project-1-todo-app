@@ -29,6 +29,7 @@ const TodoForm = ({ addTodo }) => {
 				type="submit"
 				className="border text-[16px] p-2 rounded-md border-green-500 hover:bg-green-700 transition-all">
 				Add Todo
+				
 			</button>
 		</form>
 	);
